@@ -128,3 +128,5 @@ no muestran una clasificación en grupos tan clara, esto puede deberse a la sele
 simplemente estén formados por los extremos (los países más felices o los más infelices )
 '''
 )
+
+st.write('Link al notebook del proyecto:  https://github.com/zack0712/proyecto12_PCA/blob/main/Banco_Mundial_hugo.ipynb')
