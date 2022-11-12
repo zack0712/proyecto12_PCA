@@ -4,7 +4,7 @@ from PIL import Image
 
 image1 = Image.open('pca_2componentes.jpg')
 image2 = Image.open('pca_3componentes.jpg')
-image3 = Image.open('indice.jpg')
+image3 = Image.open('Indice.jpg')
 image4 = Image.open('2cluster_pca.jpg')
 image5 = Image.open('8cluster_pca.jpg')
 
