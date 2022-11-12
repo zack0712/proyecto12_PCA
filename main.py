@@ -118,3 +118,13 @@ pca2['labels'] = kmeans.labels_
 ''')
 
 st.image(image5)
+
+st.subheader('''**Concluciones Generales**''')
+
+st.write('''
+A priori se podría pensar que es difícil clasificar a los países con las variables seleccionadas, en un principio los PCA realizados \
+no muestran una clasificación en grupos tan clara, esto puede deberse a la selección de las variables, aun así se debe tener en cuenta\
+ el hecho de que es muy probable que por el contexto de lo que se busca clasificar haya un grupo con muchos individuos mientras que otro \
+simplemente estén formados por los extremos (los países más felices o los más infelices )
+'''
+)
